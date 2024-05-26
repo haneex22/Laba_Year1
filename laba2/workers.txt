@@ -1,0 +1,3 @@
+Ivanov;Ivan;Ivanovich;123456,Russia,Moscow,Moscow,Red Square,1,1;Russian;1980-01-01;1;1001;Higher;2010
+Petrov;Petr;Petrovich;654321,Russia,St.Petersburg,St.Petersburg,Nevsky,10,2;Russian;1985-02-02;2;1002;Secondary;2005
+Sidorov;Sidor;Sidorovich;789012,Russia,Kazan,Kazan,Tatarskaya,5,3;Tatar;1990-03-03;3;1003;Higher;2010
